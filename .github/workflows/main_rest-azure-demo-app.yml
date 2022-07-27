@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'REST-Azure-Demo-App'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13FB54B1FB8343439ECAC4B4397235E0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85E3E99B519A462CB7E0F855A8413DD2 }}
           package: '*.jar'
